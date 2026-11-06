@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![RL](https://img.shields.io/badge/Algorithm-PPO-orange?style=flat-square)
-[![CI Pipeline](https://github.com/JOKER-53/crashandlearn/actions/workflows/ci.yml/badge.svg)](https://github.com/JOKER-53/crashandlearn/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/KADHIRAVANEG/crashandlearn/actions/workflows/ci.yml/badge.svg)](https://github.com/KADHIRAVANEG/crashandlearn/actions/workflows/ci.yml)
 [![ONNX Runtime](https://img.shields.io/badge/Inference-ONNX%20WASM-005ced?style=flat-square&logo=webassembly)](https://onnxruntime.ai/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Card-yellow?style=flat-square)](https://huggingface.co/JOKER53/lunar-lander-deep-ppo)
 [![Live Dashboard](https://img.shields.io/badge/Live-Research%20Showcase-00f0ff?style=flat-square&logo=googlechrome)](https://joker53.me/crashandlearn/)
@@ -28,7 +28,7 @@ Includes:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/JOKER-53/crashandlearn.git
+git clone https://github.com/KADHIRAVANEG/crashandlearn.git
 cd crashandlearn
 
 # 2. Create a virtual environment
